@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Party Games</string>
+    <string name="title_search_query">Search \'<xliff:g id="query">%1$s</xliff:g>\'</string>
+    <string name="games">Games</string>
+    <string name="poetry">Poetry</string>
+    <string name="pledge">Toasts</string>
+    <string name="starred">Favourites</string>
+    <string name="search_hint">Name of the game</string>
+    <string name="title_share">Share</string>
+    <string name="delete_confirm">Clear list</string>
+    <string name="russian">Русский</string>
+    <string name="english">English</string>
+    <string name="select_language">Select your language</string>
+    <string name="ok">OK</string>
+    
+    <string name="c1">Party</string>
+    <string name="c2">Theme</string>
+    <string name="c5">Reunions</string>
+    <string name="c7">Holiday</string>
+    <string name="c8">Bridal</string>
+    <string name="c9">Birthday</string>
+    <string name="c13">Kids</string>
+    <string name="c16">Sports</string>
+	
+	<string name="alpha_indexer"> ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+	<string name="database_name">party.db</string>
+	
+</resources>

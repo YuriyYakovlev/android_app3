@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/games"
+    	  android:icon="@drawable/ic_title_games_alt"
+    	  android:enabled="true"	
+          android:title="@string/games" />
+    <item android:id="@+id/poetry"
+          android:icon="@drawable/ic_title_poetry_alt"	
+    	  android:enabled="true"	
+          android:title="@string/poetry" />
+	<item android:id="@+id/pledge"
+		  android:icon="@drawable/ic_title_pledge_alt"	
+          android:enabled="true"	
+          android:title="@string/pledge" />          
+</menu>

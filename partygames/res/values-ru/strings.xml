@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Пан Тамада</string>
+    <string name="title_search_query">Поиск \'<xliff:g id="query">%1$s</xliff:g>\'</string>
+    <string name="games">Игры</string>
+    <string name="poetry">Поздравления</string>
+    <string name="pledge">Тосты</string>
+    <string name="starred">Избранное</string>
+    <string name="search_hint">Название игры</string>
+    <string name="title_share">Поделиться</string>
+    <string name="delete_confirm">Очистить список</string>
+    <string name="russian">Русский</string>
+    <string name="english">English</string>
+    <string name="select_language">Выберите язык</string>
+    <string name="ok">OK</string>
+    
+    <string name="c1">Вечеринка</string>
+    <string name="c2">Застолье</string>
+    <string name="c3">Интеллект</string>
+    <string name="c4">Музыка</string>
+    <string name="c5">Компания</string>
+    <string name="c6">Алкоголь</string>
+    <string name="c7">Новый Год</string>
+    <string name="c8">Свадьба</string>
+    <string name="c9">Д.Р.</string>
+    <string name="c10">Мужчинам</string>
+    <string name="c11">Любовь</string>
+    <string name="c13">Детям</string>
+    <string name="c16">Народное</string>
+    <string name="c17">Карты</string>
+    <string name="c18">Пасьянсы</string>
+    <string name="c19">Розыгрыши</string>
+    
+    <string name="l28">Студенческие</string>
+    <string name="l6">За дружбу</string>
+    <string name="l1">Мы желаем счастья Вам</string>
+    <string name="l37">На новоселье</string>
+    <string name="l46">По именам</string>
+    <string name="l21">С 8 Марта!</string>
+    <string name="l22">На иностранном языке</string>
+    <string name="l27">Ответные</string>
+    <string name="l12">Блеснём эрудицией</string>
+    <string name="l8">Как говорил мудрец Хайам</string>
+    <string name="l31">Восточные</string>
+    <string name="l7">За женщин</string>
+    <string name="l33">За здоровье</string>
+    <string name="l5">Поводы для пьянки</string>
+    <string name="l11">После пятой рюмки</string>
+    <string name="l35">Короткие</string>
+    <string name="l14">С Новым годом!</string>
+    <string name="l38">C Рождеством!</string>
+    <string name="l3">Молодожёнам</string>
+    <string name="l41">Юбилеи</string>
+    <string name="l2">Поздравления</string>
+    <string name="l34">Тосты</string>
+    <string name="l32">Поздравления к подаркам</string>
+    <string name="l10">Тосты за джентельменов</string>
+    <string name="l23">За нас мужики</string>
+    <string name="l29">Армейские</string>
+    <string name="l40">С 23 Февраля</string>
+    <string name="l43">С 9 мая</string>
+    <string name="l47">Памяти ушедших</string>
+    <string name="l4">За любовь</string>
+    <string name="l16">Для любимой</string>
+	<string name="l17">Для любимого</string>
+	<string name="l39">День Валентина</string>
+	<string name="l24">Для детей</string>
+	<string name="l9">С новорождённым</string>
+	<string name="l30">С 1 Сентября</string>
+	<string name="l25">По знакам зодиака</string>
+	<string name="l44">По Восточному гороскопу</string>
+	<string name="l45">По Цветочному гороскопу</string>
+	<string name="l51">Пасха</string>
+	
+	<string name="alpha_indexer"> АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЭЮЯ</string>
+	<string name="database_name">party-ru.db</string>
+	
+</resources>
